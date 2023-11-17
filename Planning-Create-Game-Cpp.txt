@@ -5,5 +5,6 @@ Fitur :
 - Main Menu
 - Study Menu
 - Work Menu
-- Save Load
+- Shop Menu
 - Slot Menu
+- Daily Box
