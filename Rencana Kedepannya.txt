@@ -2,4 +2,5 @@ My Planning
 - Konsisten Belajar Programming Setidaknya 1 Jam Perhari
 - Melanjutkan 3 Project Yang Telah Ditinggalkan
 - Membuat 2 Portofolio dalam 2 Bulan
-
+- Mempelajari React Js & Node Js
+- Membuat Bot Whatsapp
