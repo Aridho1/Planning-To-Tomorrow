@@ -3,3 +3,5 @@ Planning Create Game C++
 Title : Pay Debt Txt Simulator
 Fitur : 
 - Main Menu
+- Bank Menu
+- Study Menu
