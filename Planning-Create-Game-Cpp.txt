@@ -6,3 +6,6 @@ Fitur :
 - Bank Menu
 - Study Menu
 - Work Menu
+- Shop Menu
+- Slot Menu
+- Daily Box
