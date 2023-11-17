@@ -5,3 +5,4 @@ Fitur :
 - Main Menu
 - Bank Menu
 - Study Menu
+- Work Menu
